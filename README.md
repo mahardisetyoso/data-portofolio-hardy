@@ -1,2 +1,2 @@
-# data-portofolio-hardy
-Profesional Data Porotofolio Mahardi related professional 
+# data-portfolio-hardy
+Profesional Data Portfolio Mahardi related Data Visualization and Analytic
