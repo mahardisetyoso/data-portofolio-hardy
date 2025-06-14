@@ -1,6 +1,3 @@
-# data-portfolio-hardy
-Profesional Data Portfolio Mahardi related Data Visualization and Analytic
-
 # 🚗 Optimasi Zona Pickup untuk Ride-Hailing Jakarta
 ## Geospatial Data Analysis Portfolio Project
 
