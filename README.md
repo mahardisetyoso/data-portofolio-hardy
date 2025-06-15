@@ -91,13 +91,13 @@ I'm always excited to discuss **geospatial analytics**, **data science opportuni
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahardisetyoso/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahardisetyoso@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://pekerjatechkomersial-streamlit.onrender.com/)
 
 ---
 
 ## 💡 **Open to Opportunities**
 
-🔍 **Actively seeking:** Geospatial Data Scientist/Analyst positions  
+🔍 **Actively seeking:** Data Scientist/Analyst positions  
 🚀 **Specialization:** Location Intelligence • Business Analytics • Tech Innovation  
 🌟 **Ready to:** Transform geospatial data into actionable business insights
 
