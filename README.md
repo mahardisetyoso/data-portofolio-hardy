@@ -53,10 +53,10 @@ Passionate Data Analyst/Scientist with specialized domain expertise in geospatia
 ### 📊 **Data Science & Analytics Projects**
 
 #### 📈 **Interactive Visualization Correlation Between GDP per Province with Education Strata**
-**Business Challenge:** Identify GDP amount each Indonesia province in correlation with education dsitribution 
+**Business Challenge:** Identify GDP amount each Indonesia province in correlation with education disitribution 
 **Expected Impact:** Data Visualization Map and Stats as output
 **Tech Stack:** Python (GeoPandas)  • Streamlit  
-**Timeline:** 4-5 weeks | **Status:** 🚧 In Progress
+**Timeline:** 4-5 weeks | **Status:** ✅ Completed
 [🔗 **Live Demo App**](https://gdp-edu-id-data-portfolio.streamlit.app/)
 [🔗 **Repository**](https://github.com/mahardisetyoso/Streamlit_GDP_Education_Data_Analyst)
 
