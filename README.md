@@ -57,7 +57,7 @@ Passionate Data Analyst/Scientist with specialized domain expertise in geospatia
 **Expected Impact:** Data Visualization Map and Stats as output
 **Tech Stack:** Python (GeoPandas)  • Streamlit  
 **Timeline:** 4-5 weeks | **Status:** 🚧 In Progress
-[🔗 **Live Demo**]([https://geohash-converter.streamlit.app](https://gdp-edu-id-data-portfolio.streamlit.app/)
+[🔗 **Live Demo App**](https://gdp-edu-id-data-portfolio.streamlit.app/)
 [🔗 **Repository**](https://github.com/mahardisetyoso/Streamlit_GDP_Education_Data_Analyst)
 
 #### 🎯 **Geospatial Customer Segmentation for Mobility**
