@@ -52,6 +52,14 @@ Passionate Data Analyst/Scientist with specialized domain expertise in geospatia
 
 ### 📊 **Data Science & Analytics Projects**
 
+#### 📈 **Interactive Visualization Correlation Between GDP per Province with Education Strata**
+**Business Challenge:** Identify GDP amount each Indonesia province in correlation with education dsitribution 
+**Expected Impact:** Data Visualization Map and Stats as output
+**Tech Stack:** Python (GeoPandas)  • Streamlit  
+**Timeline:** 4-5 weeks | **Status:** 🚧 In Progress
+[🔗 **Live Demo**]([https://geohash-converter.streamlit.app](https://gdp-edu-id-data-portfolio.streamlit.app/)
+[🔗 **Repository**](https://github.com/mahardisetyoso/Streamlit_GDP_Education_Data_Analyst)
+
 #### 🎯 **Geospatial Customer Segmentation for Mobility**
 **Business Challenge:** How to effectively group customers based on location and travel behavior?  
 **Expected Impact:** Enhanced customer targeting and personalized mobility services  
