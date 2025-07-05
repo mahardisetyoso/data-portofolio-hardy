@@ -14,17 +14,15 @@ Proyek ini bertujuan mengidentifikasi dan mengoptimalkan zona pickup terbaik unt
 
 ## 📁 Struktur Folder
 
-📦optimasi-pickup-ridehailing
-┣ 📂data
-┃ ┗ 📄pickup_zones_jakarta.csv
-┣ 📂notebooks
-┃ ┗ 📄eda_pickup.ipynb
-┣ 📂streamlit_app
-┃ ┗ 📄app.py
-┣ 📂sql
-┃ ┗ 📄create_tables.sql
-┣ 📄requirements.txt
-┣ 📄README.md
+optimasi-pickup-ridehailing/
+├── data/
+├── notebooks/
+├── streamlit_app/
+│   └── app.py          ← Dashboard awal Streamlit
+├── sql/
+├── assets/
+├── README.md
+└── requirements.txt
 
 
 
