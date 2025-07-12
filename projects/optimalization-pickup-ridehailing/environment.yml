@@ -1,0 +1,24 @@
+name: jupyterlabenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab=3.6
+  - ipykernel
+  - notebook=6.5.4
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - folium
+  - pip
+  - pip:
+      - jupyterlab-lsp
+      - python-lsp-server[all]
+      - jupyterlab_code_formatter
+      - black
+      - isort
+      - lckr-jupyterlab-variableinspector
+      - jupyterlab-git
