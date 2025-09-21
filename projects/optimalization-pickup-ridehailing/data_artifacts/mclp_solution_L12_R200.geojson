@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "mclp_solution_L12_R200",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "geohash_list": "qquh8ud", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.911392211914062, -6.214828491210938 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguu2y", "total_count": 3, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.719131469726562, -6.191482543945312 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguy1h", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.793289184570298, -6.190109252929688 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qquh2q8", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.886672973632812, -6.247787475585937 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguzur", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.874313354492188, -6.172256469726562 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguvcj", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.783676147460938, -6.190109252929688 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguydb", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.809768676757812, -6.180496215820312 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qquh23g", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.890792846679673, -6.273880004882812 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguzc8", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.864700317382798, -6.187362670898437 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguugy", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.741104125976562, -6.175003051757812 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qquhctu", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.947097778320312, -6.164016723632812 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvp53", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.833114624023423, -6.133804321289062 ] } }
+]
+}

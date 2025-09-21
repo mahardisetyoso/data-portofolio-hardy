@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "mclp_solution_L10_R400",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "geohash_list": "qqguzt8", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.853713989257798, -6.165390014648437 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguu2y", "total_count": 3, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.719131469726562, -6.191482543945312 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qquh953", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.921005249023452, -6.221694946289062 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguzux", "total_count": 2, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.874313354492188, -6.170883178710938 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvht8", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.721878051757798, -6.121444702148437 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguq9x", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.819381713867202, -6.275253295898438 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvhm6", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.713638305664062, -6.122817993164062 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgusv7", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.736984252929688, -6.210708618164062 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvp53", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.833114624023423, -6.133804321289062 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvney", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.818008422851548, -6.131057739257812 ] } }
+]
+}

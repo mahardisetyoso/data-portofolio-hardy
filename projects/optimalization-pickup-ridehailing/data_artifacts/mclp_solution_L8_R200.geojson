@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "mclp_solution_L8_R200",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "geohash_list": "qquh8ud", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.911392211914062, -6.214828491210938 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqgvp56", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.834487915039062, -6.133804321289062 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguu2y", "total_count": 3, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.719131469726562, -6.191482543945312 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguy1h", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.793289184570298, -6.190109252929688 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguzmp", "total_count": 2, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.852340698242173, -6.168136596679688 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguzur", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.874313354492188, -6.172256469726562 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qqguydb", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.809768676757812, -6.180496215820312 ] } },
+{ "type": "Feature", "properties": { "geohash_list": "qquhctu", "total_count": 1, "selected": 1 }, "geometry": { "type": "Point", "coordinates": [ 106.947097778320312, -6.164016723632812 ] } }
+]
+}
