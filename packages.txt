@@ -2,3 +2,5 @@ libproj-dev
 proj-bin
 proj-data
 libspatialindex-dev
+gdal-bin
+libgdal-dev
