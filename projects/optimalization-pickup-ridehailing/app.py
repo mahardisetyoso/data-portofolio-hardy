@@ -1,3 +1,17 @@
+import sys, platform, subprocess
+
+def _v(pkg):
+    try:
+        import importlib
+        m = importlib.import_module(pkg)
+        return getattr(m, "__version__", "unknown")
+    except Exception as e:
+        return f"ERROR: {e}"
+
+print("PY:", sys.version)
+print("Platform:", platform.platform())
+for pkg in ["geopandas","pandas","shapely","pyproj","rtree","pyogrio"]:
+    print(pkg, _v(pkg))
 # ============================
 # STREAMLIT: Live from Supabase (no files)
 # ============================
