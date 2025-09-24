@@ -1,7 +1,7 @@
 # ── Core app
 streamlit==1.50.0            # (1.46.1 di lokalmu juga oke, tapi 1.50.0 stabil di cloud)
 pandas==2.3.2                # dekat dg 2.3.0, ada wheel cp313
-numpy==2.3.3                 # dekat dg 2.2.6, ada wheel cp313
+numpy>=1.24,<2.0                # dekat dg 2.2.6, ada wheel cp313
 
 # ── Geo stack (tanpa Fiona/GDAL)
 shapely==2.1.1
@@ -22,6 +22,4 @@ pulp==3.0.2
 # ── DB / Utils
 SQLAlchemy==2.0.41           # sesuai
 python-dotenv==1.0.1         # pengganti "dotenv: versi tidak diketahui"
-polygeohasher
-pyperclip
 session_info==1.0.0
