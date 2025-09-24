@@ -1,0 +1,28 @@
+name: ridehailing-pudo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas>=2.2
+  - shapely>=2.0,<2.1
+  - pyproj>=3.6,<3.7
+  - rtree>=1.2
+  - libspatialindex
+  - geopandas>=0.14,<1.0
+  - pyogrio>=0.9          # disarankan, ganti engine baca file ke "pyogrio"
+  # - fiona>=1.9,<1.10    # aktifkan hanya kalau memang perlu Fiona
+  # - gdal>=3.8,<3.9      # wajib kalau aktifkan Fiona
+  - folium
+  - branca
+  - scikit-learn
+  - pulp
+  - sqlalchemy
+  - psycopg2
+  - python-dotenv
+  - libpysal
+  - esda
+  - pip
+  - pip:
+      - streamlit>=1.31
+      - streamlit-folium>=0.20
