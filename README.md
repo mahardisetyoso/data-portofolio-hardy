@@ -71,8 +71,9 @@ Passionate Data Analyst/Scientist with specialized domain expertise in geospatia
 - **Business Challenge:** Identifying optimal pickup zones to improve driver-passenger matching efficiency  
 - **Expected Impact:** Reduced waiting times and increased operational efficiency  
 - **Tech Stack:** Python (Pandas, GeoPandas, Folium) • SQL • Matplotlib/Seaborn • QGIS  
-- **Timeline:** 7–8 weeks | **Status:** 🚧 In Progress
-
+- **Timeline:** 7–8 weeks | **Status:** ✅ Completed  
+- [🔗 Live Demo App](https://ridehailingoptimizer.streamlit.app/)
+- [🔗 Repository]([https://github.com/mahardisetyoso/Streamlit_GDP_Education_Data_Analyst](https://github.com/mahardisetyoso/data-portofolio-hardy/tree/main/projects/optimalization-pickup-ridehailing))
 #### 📈 Predictive Analytics for Demand Forecasting
 - **Business Challenge:** Predicting ride-hailing demand using geospatial, temporal, and external factors  
 - **Expected Impact:** Optimized supply allocation and dynamic pricing strategies  
