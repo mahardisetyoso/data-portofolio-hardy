@@ -13,7 +13,7 @@ pyogrio==0.9.0               # gunakan engine="pyogrio" saat read_file
 # ── Viz/Map
 folium==0.20.0               # sesuai
 branca==0.8.1                # sesuai
-streamlit-folium==0.21.0
+streamlit-folium>=0.24
 
 # ── ML / Opt
 scikit-learn==1.7.0          # "sklearn" diimport sbg scikit-learn
