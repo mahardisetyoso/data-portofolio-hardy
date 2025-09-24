@@ -73,7 +73,7 @@ Passionate Data Analyst/Scientist with specialized domain expertise in geospatia
 - **Tech Stack:** Python (Pandas, GeoPandas, Folium) • SQL • Matplotlib/Seaborn • QGIS  
 - **Timeline:** 7–8 weeks | **Status:** ✅ Completed  
 - [🔗 Live Demo App](https://ridehailingoptimizer.streamlit.app/)
-- [🔗 Repository](https://github.com/mahardisetyoso/Streamlit_GDP_Education_Data_Analyst](https://github.com/mahardisetyoso/data-portofolio-hardy/tree/main/projects/optimalization-pickup-ridehailing)
+- [🔗 Repository](https://github.com/mahardisetyoso/data-portofolio-hardy/tree/main/projects/optimalization-pickup-ridehailing)
 #### 📈 Predictive Analytics for Demand Forecasting
 - **Business Challenge:** Predicting ride-hailing demand using geospatial, temporal, and external factors  
 - **Expected Impact:** Optimized supply allocation and dynamic pricing strategies  
