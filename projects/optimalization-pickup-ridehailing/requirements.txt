@@ -20,6 +20,7 @@ scikit-learn==1.7.0          # "sklearn" diimport sbg scikit-learn
 pulp==3.0.2
 
 # ── DB / Utils
+psycopg2-binary>=2.9,<3
 SQLAlchemy==2.0.41           # sesuai
 python-dotenv==1.0.1         # pengganti "dotenv: versi tidak diketahui"
 session_info==1.0.0
