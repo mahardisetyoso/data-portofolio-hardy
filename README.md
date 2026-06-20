@@ -2,7 +2,7 @@
 
 ---
 
-🎯 Geospatial Data Engineer | Adding the WHERE to Data
+## 🎯 Geospatial Data Engineer | Adding the WHERE to Data
 
 Geospatial Data Engineer (ex-Grab, 8 yrs map ops) building production-grade
 spatial data pipelines on GCP — Terraform, Kestra, dbt, PostGIS, H3. Most
@@ -11,7 +11,7 @@ skip: **where**.
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 **Education:** B.Sc. in Geographic Information System, Universitas Gadjah Mada
 - 📍 **Location:** Jakarta, Indonesia
@@ -22,7 +22,7 @@ skip: **where**.
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 **Cloud & Infrastructure:**
 GCP (BigQuery, GCS, Dataproc) • Terraform • Docker
@@ -34,7 +34,10 @@ Kestra • dbt • PySpark
 H3 • PostGIS • GeoPandas • Shapely • QGIS
 
 **Languages:**
-Python • SQL
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Business & Leadership:**  
+📈 Project Management • 🤝 Stakeholder Management • 🧠 Strategic Thinking
 
 ---
 
@@ -87,8 +90,8 @@ findings narrative on the dashboard.
 
 📚 Continuous Learning
 
-- Algorit.ma Alumni — Developing Data ETL Applications with PySpark and Kafka
-- Algorit.ma Alumni — Big Data Analytics Using PySpark
+- 🔬 **Algorit.ma Alumni** – Libra Data Science Workshop with Python and R  
+- ⚡ **Algorit.ma Alumni** – Developing Data ETL Application with PySpark and Kafka
 
 ---
 
@@ -111,9 +114,25 @@ representative of current focus.*
 
 📊 GitHub Stats
 
-![hardysetyoso-datanalytic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardysetyoso-datanalytic&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahardisetyoso&show_icons=true&theme=radical)
 
 ---
+
+## 💡 Open to Opportunities
+
+- 🔍 **Actively seeking:** Geospatial Data Engineering
+- 🚀 **Specialization:** Data Engineering • Tech Innovation • Location Intelligence
+- 🌟 **Ready to:** Transform geospatial data into actionable business insights
+
+---
+
+---
+
+> *"Bridging the gap between geospatial technology and business success, one data point at a time."* 🌍✨
+
+---
+
+⭐ **If you find my work interesting, please consider giving my repositories a star!**
 
 🤝 Let's Connect!
 
